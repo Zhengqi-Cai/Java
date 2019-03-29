@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: NewChap14_Housepoint.HousePointController
+Class-Path: acm.jar StatsGraph.jar

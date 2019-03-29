@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: NewChap10Breakout.breakout
+Class-Path: acm.jar Breakout.jar
